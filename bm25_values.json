@@ -1,0 +1,1 @@
+{"avgdl": 2.0, "n_docs": 2, "doc_freq": {"indices": [751175284, 2484513939, 19522071], "values": [2.0, 1.0, 1.0]}, "b": 0.75, "k1": 1.2, "lower_case": true, "remove_punctuation": true, "remove_stopwords": true, "stem": true, "language": "english"}

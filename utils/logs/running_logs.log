@@ -1,0 +1,21 @@
+[2024-10-26 18:58:21,198 : INFO : discover_namespace_packages : Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\envs\\vivek\\Lib\\site-packages\\pinecone_plugins'])]
+[2024-10-26 18:58:21,206 : INFO : discover_plugins : Looking for plugins in pinecone_plugins.inference]
+[2024-10-26 18:58:21,388 : INFO : installation : Installing plugin inference into Pinecone]
+[2024-10-26 18:58:28,709 : INFO : Embed : Existing indexes: [{
+    "name": "divyansh",
+    "dimension": 384,
+    "metric": "dotproduct",
+    "host": "divyansh-mtxv3w9.svc.aped-4627-b74a.pinecone.io",
+    "spec": {
+        "serverless": {
+            "cloud": "aws",
+            "region": "us-east-1"
+        }
+    },
+    "status": {
+        "ready": true,
+        "state": "Ready"
+    },
+    "deletion_protection": "disabled"
+}]]
+[2024-10-26 18:58:31,874 : INFO : Embed : Index 'divyansh' already exists. Proceeding to use it.]
